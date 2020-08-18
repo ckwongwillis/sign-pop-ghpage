@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "606ffbff41384b29ba8c0509ec98d247",
+    "revision": "e5e7867360b4fcc909b89f4ab3d0ccf1",
     "url": "/sign-popup-ghpage/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sign-popup-ghpage/static/css/2.dea4351d.chunk.css"
   },
   {
-    "revision": "0b22aa797249bac6bf3c",
-    "url": "/sign-popup-ghpage/static/css/main.e195af3f.chunk.css"
+    "revision": "289bc76840760ed5f26a",
+    "url": "/sign-popup-ghpage/static/css/main.618d5662.chunk.css"
   },
   {
     "revision": "b69b35b45f1d6f2dfe64",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sign-popup-ghpage/static/js/2.81eacd86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b22aa797249bac6bf3c",
-    "url": "/sign-popup-ghpage/static/js/main.75a78fe3.chunk.js"
+    "revision": "289bc76840760ed5f26a",
+    "url": "/sign-popup-ghpage/static/js/main.45fcec2a.chunk.js"
   },
   {
     "revision": "e9d56ebbf06175868e3c",
