@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93e7d229823ecc0c3ff5a8e7fb828b1d",
+    "revision": "0f0d93080a1a2f6d9151f1f09270c642",
     "url": "/sign-popup-ghpage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sign-popup-ghpage/static/css/2.dea4351d.chunk.css"
   },
   {
-    "revision": "3f0437e74f738ef981e3",
+    "revision": "64672d0518f6196fb05d",
     "url": "/sign-popup-ghpage/static/css/main.50740976.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sign-popup-ghpage/static/js/2.81eacd86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f0437e74f738ef981e3",
-    "url": "/sign-popup-ghpage/static/js/main.0e560e33.chunk.js"
+    "revision": "64672d0518f6196fb05d",
+    "url": "/sign-popup-ghpage/static/js/main.a0992d81.chunk.js"
   },
   {
     "revision": "e9d56ebbf06175868e3c",

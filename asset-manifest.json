@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sign-popup-ghpage/static/css/main.50740976.chunk.css",
-    "main.js": "/sign-popup-ghpage/static/js/main.0e560e33.chunk.js",
-    "main.js.map": "/sign-popup-ghpage/static/js/main.0e560e33.chunk.js.map",
+    "main.js": "/sign-popup-ghpage/static/js/main.a0992d81.chunk.js",
+    "main.js.map": "/sign-popup-ghpage/static/js/main.a0992d81.chunk.js.map",
     "runtime-main.js": "/sign-popup-ghpage/static/js/runtime-main.be9ff133.js",
     "runtime-main.js.map": "/sign-popup-ghpage/static/js/runtime-main.be9ff133.js.map",
     "static/css/2.dea4351d.chunk.css": "/sign-popup-ghpage/static/css/2.dea4351d.chunk.css",
     "static/js/2.81eacd86.chunk.js": "/sign-popup-ghpage/static/js/2.81eacd86.chunk.js",
     "static/js/2.81eacd86.chunk.js.map": "/sign-popup-ghpage/static/js/2.81eacd86.chunk.js.map",
     "index.html": "/sign-popup-ghpage/index.html",
-    "precache-manifest.c9e01ceedb2770343e062fdbfa1babf7.js": "/sign-popup-ghpage/precache-manifest.c9e01ceedb2770343e062fdbfa1babf7.js",
+    "precache-manifest.ca64f1a6ff1b049f3e84894e849ffcb0.js": "/sign-popup-ghpage/precache-manifest.ca64f1a6ff1b049f3e84894e849ffcb0.js",
     "service-worker.js": "/sign-popup-ghpage/service-worker.js",
     "static/css/2.dea4351d.chunk.css.map": "/sign-popup-ghpage/static/css/2.dea4351d.chunk.css.map",
     "static/css/main.50740976.chunk.css.map": "/sign-popup-ghpage/static/css/main.50740976.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.dea4351d.chunk.css",
     "static/js/2.81eacd86.chunk.js",
     "static/css/main.50740976.chunk.css",
-    "static/js/main.0e560e33.chunk.js"
+    "static/js/main.a0992d81.chunk.js"
   ]
 }
