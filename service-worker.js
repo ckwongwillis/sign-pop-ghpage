@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sign-popup-ghpage/precache-manifest.1f672e7a906b611e2dd822c8659fecf6.js"
+  "/sign-popup-ghpage/precache-manifest.fc974eead32193c3b0b0067f848bce5b.js"
 );
 
 self.addEventListener('message', (event) => {
